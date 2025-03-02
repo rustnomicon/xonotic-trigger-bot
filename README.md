@@ -32,7 +32,7 @@ seta "cl_bobmodel" "0"
 seta "cl_bobup" "0"
 seta "cl_deathscoreboard" "0"
 ```
-4. Move edit textures from the github repo to a folder  
+4. Move edit textures (data.7z) from the github repo to a folder  
 ```
 C:\Users\USER NAME\Saved Games\xonotic\data
 ```
